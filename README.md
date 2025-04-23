@@ -1,4 +1,6 @@
-<DuckDB 인 액션>
+# 《DuckDB 인 액션》
+
+[![Cover](./img/cover.jpg)](https://www.manning.com/books/duckdb-in-action)
 
 원서 예제 코드에 쓰인 DuckDB 버전: v 0.10
 한국어판 예제 코드에 쓰인 DuckDB 버전: v 1.20.1
@@ -8,3 +10,8 @@
 
 [원서의 저장소](https://github.com/duckdb-in-action/examples)  v 0.10 기준(2025.4.23 기준)  
 [옮긴이의 저장소](https://github.com/geniuskey/duckdb-in-action-examples) v 1.20.1 기준  
+
+## 도서 구매
+- [교보문고](https://product.kyobobook.co.kr/detail/S000216354896) 
+- [YES24](https://www.yes24.com/product/goods/145630370) 
+- [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362832219&start=slayer)
